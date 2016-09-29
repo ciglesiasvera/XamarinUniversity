@@ -1,0 +1,2 @@
+C:\Desarrollo\Phoneword\Phoneword\Phoneword.Windows\Phoneword.Windows.csproj;neutral
+C:\Desarrollo\Phoneword\Phoneword\Phoneword\Phoneword.csproj;neutral

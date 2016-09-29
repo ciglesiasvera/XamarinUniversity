@@ -1,0 +1,13 @@
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

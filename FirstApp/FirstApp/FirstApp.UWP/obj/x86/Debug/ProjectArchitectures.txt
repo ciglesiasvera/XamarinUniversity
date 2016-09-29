@@ -1,0 +1,2 @@
+C:\Desarrollo\FirstApp\FirstApp\FirstApp.UWP\FirstApp.UWP.csproj;x86
+C:\Desarrollo\FirstApp\FirstApp\FirstApp\FirstApp.csproj;neutral
