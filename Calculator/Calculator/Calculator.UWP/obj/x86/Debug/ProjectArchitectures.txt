@@ -1,2 +1,2 @@
-C:\Users\Desefarming\Desktop\xam130-ex1-start\xam130-ex1-start\Calculator\Calculator.UWP\Calculator.UWP.csproj;x86
-C:\Users\Desefarming\Desktop\xam130-ex1-start\xam130-ex1-start\Calculator\Calculator\Calculator.csproj;neutral
+C:\Desarrollo\XamarinUniversity\Calculator\Calculator\Calculator.UWP\Calculator.UWP.csproj;x86
+C:\Desarrollo\XamarinUniversity\Calculator\Calculator\Calculator\Calculator.csproj;neutral

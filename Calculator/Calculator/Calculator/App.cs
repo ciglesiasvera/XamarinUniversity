@@ -5,6 +5,8 @@ using System.Text;
 
 using Xamarin.Forms;
 
+//[assembly: XamlCompilationAttribute(XamlCompilationOptions.Compile)]
+
 namespace Calculator
 {
 	public class App : Application
@@ -12,9 +14,7 @@ namespace Calculator
 		public App()
 		{
 			// The root page of your application
-            MainPage = new Calculator.MainPage();
-
-            
+            MainPage = new Calculator.MainPage();           
 
 		}
 
