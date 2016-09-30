@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using Android.App;
 using Android.OS;
-using MyTunes.Shared;
+using MyTunes;
 
 namespace MyTunes
 {

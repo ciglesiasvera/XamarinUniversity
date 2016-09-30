@@ -4,11 +4,11 @@ C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\obj\Debug\optimized\
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\obj\Debug\MyTunes.iOS.csprojResolveAssemblyReference.cache
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\bin\Debug\MyTunesiOS.exe
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\bin\Debug\MyTunesiOS.pdb
-C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\bin\Debug\MuTunes.Shared.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\bin\Debug\Newtonsoft.Json.dll
-C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\bin\Debug\MuTunes.Shared.pdb
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\bin\Debug\Newtonsoft.Json.xml
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\obj\Debug\MyTunesiOS.exe
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\obj\Debug\MyTunesiOS.pdb
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\bin\Debug\MyTunes.Shared.dll
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\bin\Debug\MyTunes.Shared.pdb
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\obj\Debug\MyTunesiOS.exe.mdb
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.iOS\bin\Debug\MyTunesiOS.exe.mdb

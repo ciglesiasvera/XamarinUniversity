@@ -1,6 +1,6 @@
 using UIKit;
 using System.Linq;
-using MyTunes.Shared;
+using MyTunes;
 
 namespace MyTunes
 {

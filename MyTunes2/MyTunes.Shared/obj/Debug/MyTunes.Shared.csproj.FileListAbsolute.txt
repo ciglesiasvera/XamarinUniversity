@@ -1,0 +1,6 @@
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Shared\bin\Debug\MyTunes.Shared.dll
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Shared\bin\Debug\MyTunes.Shared.pdb
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Shared\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Shared\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Shared\obj\Debug\MyTunes.Shared.dll
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Shared\obj\Debug\MyTunes.Shared.pdb

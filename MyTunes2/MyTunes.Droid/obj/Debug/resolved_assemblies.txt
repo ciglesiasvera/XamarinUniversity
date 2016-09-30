@@ -5,7 +5,7 @@ C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Xml.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\mscorlib.dll
-C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\MuTunes.Shared.dll
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\MyTunes.Shared.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Threading.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Runtime.dll
@@ -22,8 +22,8 @@ C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
-C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.IO.dll
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Xml.XDocument.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
 C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Droid\obj\Debug\android\assets\System.Globalization.dll

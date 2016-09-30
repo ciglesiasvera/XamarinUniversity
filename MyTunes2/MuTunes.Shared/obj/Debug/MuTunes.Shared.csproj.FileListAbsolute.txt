@@ -1,7 +1,0 @@
-C:\Desarrollo\XamarinUniversity\MyTunes2\MuTunes.Shared\bin\Debug\MuTunes.Shared.dll
-C:\Desarrollo\XamarinUniversity\MyTunes2\MuTunes.Shared\bin\Debug\MuTunes.Shared.pdb
-C:\Desarrollo\XamarinUniversity\MyTunes2\MuTunes.Shared\bin\Debug\Newtonsoft.Json.dll
-C:\Desarrollo\XamarinUniversity\MyTunes2\MuTunes.Shared\bin\Debug\Newtonsoft.Json.xml
-C:\Desarrollo\XamarinUniversity\MyTunes2\MuTunes.Shared\obj\Debug\MuTunes.Shared.dll
-C:\Desarrollo\XamarinUniversity\MyTunes2\MuTunes.Shared\obj\Debug\MuTunes.Shared.pdb
-C:\Desarrollo\XamarinUniversity\MyTunes2\MuTunes.Shared\obj\Debug\MuTunes.Shared.csprojResolveAssemblyReference.cache

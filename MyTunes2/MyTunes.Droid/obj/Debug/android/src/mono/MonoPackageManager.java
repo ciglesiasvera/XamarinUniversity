@@ -99,7 +99,7 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "MyTunes.Droid.dll" comes first in this list. */
 		"MyTunes.Droid.dll",
-		"MuTunes.Shared.dll",
+		"MyTunes.Shared.dll",
 		"Newtonsoft.Json.dll",
 		"System.Threading.dll",
 		"System.Runtime.dll",
@@ -112,8 +112,8 @@ class MonoPackageManager_Resources {
 		"System.Runtime.Extensions.dll",
 		"System.Reflection.Extensions.dll",
 		"System.Resources.ResourceManager.dll",
-		"System.Threading.Tasks.dll",
 		"System.IO.dll",
+		"System.Threading.Tasks.dll",
 		"System.Xml.XDocument.dll",
 		"System.Globalization.dll",
 		"System.Runtime.Serialization.Primitives.dll",

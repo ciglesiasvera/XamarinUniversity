@@ -1,0 +1,2 @@
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.Shared\MyTunes.Shared.csproj;neutral
+C:\Desarrollo\XamarinUniversity\MyTunes2\MyTunes.UWP\MyTunes.UWP.csproj;x86
