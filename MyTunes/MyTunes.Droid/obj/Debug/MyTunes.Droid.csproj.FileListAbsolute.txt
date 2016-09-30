@@ -1,0 +1,16 @@
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\obj\Debug\MyTunes.Droid.csprojResolveAssemblyReference.cache
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\bin\Debug\MyTunes.Droid.dll
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\bin\Debug\MyTunes.Droid.pdb
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\bin\Debug\com.xamarin.MyTunes.apk
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\bin\Debug\com.xamarin.MyTunes-Signed.apk
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\obj\Debug\MyTunes.Droid.dll
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\obj\Debug\MyTunes.Droid.pdb
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\obj\Debug\android\bin\com.xamarin.MyTunes.apk
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\obj\Debug\res\values\strings.xml
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\obj\Debug\res\drawable\icon.png
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\obj\Debug\R.cs.flag
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\obj\Debug\uploadflags.txt
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\obj\Debug\MyTunes.Droid.dll.mdb
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.Droid\bin\Debug\MyTunes.Droid.dll.mdb

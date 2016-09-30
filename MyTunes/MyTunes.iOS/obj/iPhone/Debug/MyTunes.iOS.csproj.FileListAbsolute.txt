@@ -1,0 +1,12 @@
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\bin\iPhone\Debug\MyTunesiOS.exe
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\bin\iPhone\Debug\MyTunesiOS.pdb
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\obj\iPhone\Debug\optimized\
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\obj\iPhone\Debug\MyTunes.iOS.csprojResolveAssemblyReference.cache
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\obj\iPhone\Debug\MyTunesiOS.exe
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\obj\iPhone\Debug\MyTunesiOS.pdb
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\obj\iPhone\Debug\MyTunesiOS.exe.mdb
+C:\Desarrollo\XamarinUniversity\MyTunes\MyTunes.iOS\bin\iPhone\Debug\MyTunesiOS.exe.mdb
