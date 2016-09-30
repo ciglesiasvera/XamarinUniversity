@@ -1,0 +1,8 @@
+MyTunes.MainActivity, MyTunes.Droid;md5474d023bb4bdc79c0d3d95790df36393.MainActivity
+MyTunes.MainActivity, MyTunes.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5474d023bb4bdc79c0d3d95790df36393.MainActivity
+MyTunes.MainActivity;md5474d023bb4bdc79c0d3d95790df36393.MainActivity
+mytunes.MainActivity;md5474d023bb4bdc79c0d3d95790df36393.MainActivity
+MyTunes.ListAdapter`1, MyTunes.Droid;md5474d023bb4bdc79c0d3d95790df36393.ListAdapter_1
+MyTunes.ListAdapter`1, MyTunes.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5474d023bb4bdc79c0d3d95790df36393.ListAdapter_1
+MyTunes.ListAdapter`1;md5474d023bb4bdc79c0d3d95790df36393.ListAdapter_1
+mytunes.ListAdapter_1;md5474d023bb4bdc79c0d3d95790df36393.ListAdapter_1
