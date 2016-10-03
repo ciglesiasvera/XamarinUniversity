@@ -23,11 +23,11 @@ C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPho
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\MainPage.g.i.cs
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\MainPage.g.cs
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\XamlSaveStateFile.xml
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\App.xaml
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\MainPage.xaml
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\App.xbf
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\MainPage.xbf
-C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\XamlSaveStateFile.xml
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\TipCalculator.WinPhone81.exe
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\TipCalculator.WinPhone81.pdb
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\obj\Debug\TipCalculator.WinPhone.csproj.GenerateResource.Cache

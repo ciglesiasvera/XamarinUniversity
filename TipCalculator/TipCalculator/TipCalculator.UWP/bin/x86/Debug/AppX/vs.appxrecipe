@@ -16,7 +16,7 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>53252C0060984D532DD959E6E09C09AA9FBFEA8F0B56771DE053B1BF021416A5</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>16E10152716DCF7AA8FBC2ECA776BAF306549835E52733B17DB9C056252C4348</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>3cab0752-ad37-4539-9386-6dcc97fdb1ef_1.0.0.0_x86__r707ch7j4pe6r</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>3cab0752-ad37-4539-9386-6dcc97fdb1ef_r707ch7j4pe6r!App</RegisteredUserModeAppID>
     <RegisteredPackageID>3cab0752-ad37-4539-9386-6dcc97fdb1ef</RegisteredPackageID>
@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-03T15:24:36.159</Modified>
+      <Modified>2016-10-03T20:11:27.541</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\bin\x86\Debug\TipCalculator.UWP.exe">
       <PackagePath>entrypoint\TipCalculator.UWP.exe</PackagePath>
-      <Modified>2016-10-03T15:24:34.880</Modified>
+      <Modified>2016-10-03T20:11:25.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Desefarming\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -466,53 +466,53 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll">
       <PackagePath>TipCalculator.dll</PackagePath>
-      <Modified>2016-10-03T15:24:32.807</Modified>
+      <Modified>2016-10-03T20:11:22.028</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2016-05-24T13:33:24.000</Modified>
+      <Modified>2015-12-09T12:08:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2016-05-24T13:33:24.000</Modified>
+      <Modified>2015-12-09T12:08:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-24T13:33:24.000</Modified>
+      <Modified>2015-12-09T12:08:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-24T13:33:24.000</Modified>
+      <Modified>2015-12-09T12:08:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-24T13:33:24.000</Modified>
+      <Modified>2015-12-09T12:08:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-24T13:33:24.000</Modified>
+      <Modified>2015-12-09T12:08:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-24T13:33:24.000</Modified>
+      <Modified>2015-12-09T12:08:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-24T13:33:24.000</Modified>
+      <Modified>2015-12-09T12:08:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\bin\x86\Debug\TipCalculator.UWP.xr.xml">
       <PackagePath>TipCalculator.UWP.xr.xml</PackagePath>
-      <Modified>2016-10-03T13:32:49.885</Modified>
+      <Modified>2016-10-03T20:10:40.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2016-07-13T21:36:21.319</Modified>
+      <Modified>2016-10-03T16:25:22.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Desefarming\.nuget\packages\Xamarin.Forms\2.0.0.6490\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
@@ -524,11 +524,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-10-03T15:24:35.956</Modified>
+      <Modified>2016-10-03T20:11:27.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.UWP\bin\x86\Debug\Core\TipCalculator.UWP.exe">
       <PackagePath>TipCalculator.UWP.exe</PackagePath>
-      <Modified>2016-10-03T15:24:36.154</Modified>
+      <Modified>2016-10-03T20:11:27.526</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

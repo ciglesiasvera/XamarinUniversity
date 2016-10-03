@@ -11,7 +11,7 @@ namespace TipCalculator
 
 			billInput.TextChanged += (s, e) => CalculateTip(false, false);
 			roundDown.Clicked     += (s, e) => CalculateTip(false, true );
-			roundUp.Clicked     += (s, e) => CalculateTip(true,  false);
+			roundUp  .Clicked     += (s, e) => CalculateTip(true,  false);
 
 			tipPercentSlider.ValueChanged += (s, e) =>
 				{
@@ -42,7 +42,7 @@ namespace TipCalculator
 					tip   = final - t;
 				}
 
-				tipOutput.Text = tip  .ToString("C");
+				tipOutput  .Text = tip  .ToString("C");
 				totalOutput.Text = final.ToString("C");
 			}
 		}

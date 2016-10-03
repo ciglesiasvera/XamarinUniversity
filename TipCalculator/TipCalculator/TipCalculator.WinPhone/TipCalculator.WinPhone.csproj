@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{04D007D8-729C-41D9-BE7D-FD2C6D9AB082}</ProjectGuid>
+    <ProjectGuid>{45F7B765-E129-4BDD-9435-8F02C9EFAF70}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TipCalculator.WinPhone81</RootNamespace>

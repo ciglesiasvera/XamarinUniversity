@@ -8,7 +8,7 @@
     <TargetOsDescription>Windows 8.1</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <PackageIdentityName>30ABE5B3-E026-4D12-AFE9-3D1637EBE6C3</PackageIdentityName>
+    <PackageIdentityName>928B99FE-B58F-48D1-9DD0-1493E04752FC</PackageIdentityName>
     <PackageIdentityPublisher>CN=Xamarin</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.Windows\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>

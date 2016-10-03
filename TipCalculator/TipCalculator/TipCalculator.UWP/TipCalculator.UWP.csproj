@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{448928BA-D205-45AE-8A79-AA20C8C77DD7}</ProjectGuid>
+    <ProjectGuid>{B3054D3E-F5E6-4CA7-84C2-47395E19F7A9}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TipCalculator.UWP</RootNamespace>

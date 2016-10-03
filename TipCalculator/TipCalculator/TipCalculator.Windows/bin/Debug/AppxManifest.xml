@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="30ABE5B3-E026-4D12-AFE9-3D1637EBE6C3" Publisher="CN=Xamarin" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="928B99FE-B58F-48D1-9DD0-1493E04752FC" Publisher="CN=Xamarin" Version="1.0.0.0" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>TipCalculator.Windows</DisplayName>
     <PublisherDisplayName>Xamarin</PublisherDisplayName>
