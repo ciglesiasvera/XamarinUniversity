@@ -9,3 +9,7 @@ C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\De
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.CustomTipPage.xaml.g.cs
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll
 C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll.mdb
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll.mdb
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll.mdb
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll.mdb
