@@ -1,0 +1,11 @@
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.dll
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.xml
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.StandardTipPage.xaml.g.cs
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.CustomTipPage.xaml.g.cs
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb

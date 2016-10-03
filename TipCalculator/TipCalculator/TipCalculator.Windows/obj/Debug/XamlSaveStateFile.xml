@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\desarrollo\xamarinuniversity\tipcalculator\tipcalculator\tipcalculator.windows\obj\debug\intermediatexaml\tipcalculator.windows.exe" HashGuid="9049e8d5-ed0c-caee-961d-8dbca7bf08bd" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\tipcalculator\tipcalculator\tipcalculator\bin\debug\tipcalculator.dll" HashGuid="36fa5ea1-5b18-ebc9-5e7e-05119d7d9067" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\tipcalculator\packages\xamarin.forms.2.0.0.6490\lib\win81\xamarin.forms.core.dll" HashGuid="fc4d293c-1461-cd77-ad16-bd6242859c90" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\tipcalculator\packages\xamarin.forms.2.0.0.6490\lib\win81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\tipcalculator\packages\xamarin.forms.2.0.0.6490\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="98d433d0-b633-d112-817d-fa76ca199a41" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\tipcalculator\packages\xamarin.forms.2.0.0.6490\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="cc26105e-9714-a8a4-7460-d1885be1ee00" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\tipcalculator\packages\xamarin.forms.2.0.0.6490\lib\win81\xamarin.forms.xaml.dll" HashGuid="3953804c-3f4d-f50e-72fc-d5c6cd693e13" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

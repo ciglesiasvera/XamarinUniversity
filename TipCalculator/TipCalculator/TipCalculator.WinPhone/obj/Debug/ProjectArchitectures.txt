@@ -1,0 +1,2 @@
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator.WinPhone\TipCalculator.WinPhone.csproj;neutral
+C:\Desarrollo\XamarinUniversity\TipCalculator\TipCalculator\TipCalculator\TipCalculator.csproj;neutral

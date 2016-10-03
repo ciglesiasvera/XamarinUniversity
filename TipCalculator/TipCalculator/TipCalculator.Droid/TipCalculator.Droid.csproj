@@ -22,8 +22,9 @@
     <MandroidI18n />
     <JavaMaximumHeapSize />
     <JavaOptions />
-    <NuGetPackageImportStamp></NuGetPackageImportStamp>
-    <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkVersion>v7.0</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -113,7 +114,7 @@
   <ItemGroup>
     <Content Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
-    <ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\TipCalculator\TipCalculator.csproj">
       <Project>{2B2E2A48-6A9F-4A1B-942B-474A98DB3C9D}</Project>
       <Name>TipCalculator</Name>
