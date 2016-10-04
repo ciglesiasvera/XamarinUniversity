@@ -1,0 +1,2 @@
+C:\Desarrollo\XamarinUniversity\NetStatus\NetStatus\NetStatus.UWP\NetStatus.UWP.csproj;x86
+C:\Desarrollo\XamarinUniversity\NetStatus\NetStatus\NetStatus\NetStatus.csproj;neutral
