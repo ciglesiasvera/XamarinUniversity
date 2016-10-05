@@ -1,0 +1,2 @@
+C:\Desarrollo\XamarinUniversity\People\People\People.UWP\People.UWP.csproj;x86
+C:\Desarrollo\XamarinUniversity\People\People\People\People.csproj;neutral

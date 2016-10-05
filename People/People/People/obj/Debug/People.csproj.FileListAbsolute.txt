@@ -1,0 +1,12 @@
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\People.dll
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\People.pdb
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\Xamarin.Forms.Core.dll
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\Xamarin.Forms.Core.xml
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Desarrollo\XamarinUniversity\People\People\People\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Desarrollo\XamarinUniversity\People\People\People\obj\Debug\People.dll
+C:\Desarrollo\XamarinUniversity\People\People\People\obj\Debug\People.pdb
