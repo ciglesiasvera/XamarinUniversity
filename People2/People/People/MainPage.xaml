@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+					   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+					   x:Class="People.MainPage"
+             Padding="0,20">
+	
+  <Grid Padding="5" RowSpacing="1" ColumnSpacing="1" BackgroundColor="Default">
+
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="*" />
+    </Grid.RowDefinitions>
+    
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+    
+    <Entry x:Name="newPerson" Placeholder="Enter name" />
+    
+    <Entry x:Name="newEmail" Placeholder="Email" Grid.Row="1"/>
+    
+    <Entry x:Name="newTwitter" Placeholder="Twitter" Grid.Row="2"/>
+    
+    <Button Text="Add Person" Grid.Row="3" Clicked="OnNewButtonClicked" />
+           
+    <Label x:Name="statusMessage" Grid.Row="4" />
+      
+    <Button Text="Get All People" Grid.Row="5" Clicked="OnGetButtonClicked" />
+    
+    <ListView x:Name="peopleList"
+              Grid.Row="6">     
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell Height="30">
+            <StackLayout Padding="5">
+              <Label Text="{Binding Name}" />
+              <Label Text="{Binding Email}" />
+              <Label Text="{Binding Twitter}" />
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+
+  </Grid>
+</ContentPage>
