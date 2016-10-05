@@ -1,2 +1,2 @@
-C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\People.UWP.csproj;x86
-C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People\People.csproj;neutral
+C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\People.UWP.csproj;x86
+C:\Desarrollo\XamarinUniversity\People2\People\People\People.csproj;neutral

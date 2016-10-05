@@ -1,16 +1,16 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\people\people\bin\debug\people.dll" HashGuid="98cfcf09-ef2d-9739-ed0f-ac2eedb2632d" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\sqlite-net-pcl.1.2.0\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10\sqlite-net.dll" HashGuid="3c0233d3-a12c-5ad7-a109-85a4ee4f8215" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\sqlitepcl.raw.0.9.3\lib\win81\sqlitepcl.raw.dll" HashGuid="0ebfe792-71de-e383-fad8-e17076cac3a8" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\sqlitepclraw.bundle_green.1.1.0\lib\win81\sqlitepclraw.batteries_green.dll" HashGuid="39f21040-4875-6272-89df-7d99d9436971" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\sqlitepclraw.bundle_green.1.1.0\lib\win81\sqlitepclraw.batteries_v2.dll" HashGuid="2ac16958-7d08-0826-efe2-e0251f98c9e2" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\sqlitepclraw.core.1.1.0\lib\win81\sqlitepclraw.core.dll" HashGuid="5ecf9ccc-1b19-e615-1a4d-f3884e09019a" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\sqlitepclraw.provider.e_sqlite3.win81.1.1.0\lib\win81\sqlitepclraw.provider.e_sqlite3.dll" HashGuid="af006c6c-92f8-0b54-0d77-7122dcd7a885" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.core.dll" HashGuid="725dee27-7376-6787-2b92-d2b102c486d4" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="07994aa2-3382-4066-7150-6b749ac659d6" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="be70b7f3-05ad-48ad-bda6-3e680e6b0d12" />
-    <ReferenceAssembly PathName="c:\users\desefarming\desktop\xam160-ex3-completed\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.xaml.dll" HashGuid="9f5b8117-9053-1f26-a531-a25956bccca6" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\people\people\bin\debug\people.dll" HashGuid="20f626bc-24d8-a6f3-94ee-33c03c30b269" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\sqlite-net-pcl.1.2.0\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10\sqlite-net.dll" HashGuid="3c0233d3-a12c-5ad7-a109-85a4ee4f8215" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\sqlitepcl.raw.0.9.3\lib\win81\sqlitepcl.raw.dll" HashGuid="0ebfe792-71de-e383-fad8-e17076cac3a8" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\sqlitepclraw.bundle_green.1.1.0\lib\win81\sqlitepclraw.batteries_green.dll" HashGuid="39f21040-4875-6272-89df-7d99d9436971" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\sqlitepclraw.bundle_green.1.1.0\lib\win81\sqlitepclraw.batteries_v2.dll" HashGuid="2ac16958-7d08-0826-efe2-e0251f98c9e2" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\sqlitepclraw.core.1.1.0\lib\win81\sqlitepclraw.core.dll" HashGuid="5ecf9ccc-1b19-e615-1a4d-f3884e09019a" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\sqlitepclraw.provider.e_sqlite3.win81.1.1.0\lib\win81\sqlitepclraw.provider.e_sqlite3.dll" HashGuid="af006c6c-92f8-0b54-0d77-7122dcd7a885" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.core.dll" HashGuid="725dee27-7376-6787-2b92-d2b102c486d4" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="07994aa2-3382-4066-7150-6b749ac659d6" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="be70b7f3-05ad-48ad-bda6-3e680e6b0d12" />
+    <ReferenceAssembly PathName="c:\desarrollo\xamarinuniversity\people2\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.xaml.dll" HashGuid="9f5b8117-9053-1f26-a531-a25956bccca6" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

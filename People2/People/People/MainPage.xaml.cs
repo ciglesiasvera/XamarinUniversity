@@ -1,6 +1,7 @@
 ﻿using People.Models;
 using System;
 using System.Collections.ObjectModel;
+using System.Threading.Tasks;
 
 namespace People
 {
@@ -19,11 +20,11 @@ namespace People
             statusMessage.Text = App.PersonRepo.StatusMessage;
         }
         
-        public void OnGetButtonClicked(object sender, EventArgs args)
+        public async void OnGetButtonClicked(object sender, EventArgs args)
         {
             statusMessage.Text = "";
 
-            ObservableCollection<Person> people = new ObservableCollection<Person>(App.PersonRepo.GetAllPeople());
+            ObservableCollection<Person> people = new ObservableCollection<Person>(await App.PersonRepo.GetAllPeople());
             peopleList.ItemsSource = people;
         }
     }

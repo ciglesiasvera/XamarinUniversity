@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>8320B018-29CC-44FA-AC3F-E5C1C82AFD2A</PackageIdentityName>
     <PackageIdentityPublisher>CN=Xamarin</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-05T20:01:50.217</Modified>
+      <Modified>2016-10-05T22:20:27.867</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\bin\x86\Debug\People.UWP.exe">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\bin\x86\Debug\People.UWP.exe">
       <PackagePath>entrypoint\People.UWP.exe</PackagePath>
-      <Modified>2016-10-05T20:01:48.112</Modified>
+      <Modified>2016-10-05T22:20:24.311</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Desefarming\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -540,44 +540,44 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2016-09-13T15:23:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People\bin\Debug\People.dll">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People\bin\Debug\People.dll">
       <PackagePath>People.dll</PackagePath>
-      <Modified>2016-10-05T20:01:44.055</Modified>
+      <Modified>2016-10-05T22:20:21.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-02-27T05:24:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2016-02-27T05:24:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-02-27T05:24:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-02-27T05:24:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-02-27T05:24:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-02-27T05:24:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-02-27T05:24:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-02-27T05:24:50.000</Modified>
@@ -586,7 +586,7 @@
       <PackagePath>sqlite3.dll</PackagePath>
       <Modified>2016-01-08T13:48:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\bin\x86\Debug\People.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\bin\x86\Debug\People.UWP.xr.xml">
       <PackagePath>People.UWP.xr.xml</PackagePath>
       <Modified>2016-10-05T19:41:00.079</Modified>
     </AppxPackagedFile>
@@ -602,13 +602,13 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
       <Modified>2016-09-13T15:23:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-10-05T20:01:49.832</Modified>
+      <Modified>2016-10-05T22:20:27.527</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Desefarming\Desktop\xam160-ex3-completed\People\People.UWP\bin\x86\Debug\Core\People.UWP.exe">
+    <AppxPackagedFile Include="C:\Desarrollo\XamarinUniversity\People2\People\People.UWP\bin\x86\Debug\Core\People.UWP.exe">
       <PackagePath>People.UWP.exe</PackagePath>
-      <Modified>2016-10-05T20:01:50.210</Modified>
+      <Modified>2016-10-05T22:20:27.862</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
