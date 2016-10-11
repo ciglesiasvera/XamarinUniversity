@@ -18,3 +18,8 @@ C:\Desarrollo\XamarinUniversity\BookClient\BookClient\BookClient\obj\Debug\BookC
 C:\Desarrollo\XamarinUniversity\BookClient\BookClient\BookClient\obj\Debug\BookClient.MainPage.xaml.g.cs
 C:\Desarrollo\XamarinUniversity\BookClient\BookClient\BookClient\obj\Debug\BookClient.dll
 C:\Desarrollo\XamarinUniversity\BookClient\BookClient\BookClient\obj\Debug\BookClient.pdb
+C:\Desarrollo\XamarinUniversity\BookClient\BookClient\BookClient\obj\Debug\BookClient.csprojResolveAssemblyReference.cache
+C:\Desarrollo\XamarinUniversity\BookClient\BookClient\BookClient\obj\Debug\BookClient.dll.mdb
+C:\Desarrollo\XamarinUniversity\BookClient\BookClient\BookClient\bin\Debug\BookClient.dll.mdb
+C:\Desarrollo\XamarinUniversity\BookClient\BookClient\BookClient\obj\Debug\BookClient.dll.mdb
+C:\Desarrollo\XamarinUniversity\BookClient\BookClient\BookClient\bin\Debug\BookClient.dll.mdb
