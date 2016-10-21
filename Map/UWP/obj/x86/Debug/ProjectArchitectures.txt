@@ -1,0 +1,2 @@
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\CustomRenderer.csproj;neutral
+C:\Desarrollo\XamarinUniversity\Map\UWP\CustomRenderer.UWP.csproj;x86

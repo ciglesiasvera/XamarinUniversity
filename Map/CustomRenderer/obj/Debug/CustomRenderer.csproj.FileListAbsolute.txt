@@ -1,0 +1,16 @@
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\CustomRenderer.dll
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\CustomRenderer.pdb
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Core.dll
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Core.xml
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\obj\Debug\CustomRenderer.MapPage.xaml.g.cs
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\obj\Debug\CustomRenderer.dll
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\obj\Debug\CustomRenderer.pdb
+C:\Desarrollo\XamarinUniversity\Map\CustomRenderer\obj\Debug\CustomRenderer.csprojResolveAssemblyReference.cache
